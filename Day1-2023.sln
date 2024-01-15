@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1-2023", "Day1-2023\Day1-2023.csproj", "{5E199585-C0C3-42C0-8E9E-047A67860B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_BLL", "Day1_BLL\Day1_BLL.csproj", "{FD1469B9-5EE5-493F-BC0E-3DC4EFDFACC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E199585-C0C3-42C0-8E9E-047A67860B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E199585-C0C3-42C0-8E9E-047A67860B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E199585-C0C3-42C0-8E9E-047A67860B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E199585-C0C3-42C0-8E9E-047A67860B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1469B9-5EE5-493F-BC0E-3DC4EFDFACC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1469B9-5EE5-493F-BC0E-3DC4EFDFACC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1469B9-5EE5-493F-BC0E-3DC4EFDFACC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1469B9-5EE5-493F-BC0E-3DC4EFDFACC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
